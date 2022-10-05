@@ -13,4 +13,4 @@ As we know that cyber threats are common today - their are more common threats s
 
   <a href="https://www.forbes.com/advisor/business/common-cyber-security-threats/" target="_blank"><img src="https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2021/10/common_cybersecurity_threats_-_article_image.jpg" width="50%" height="70%" alt="cyber-awareness"></a>
   
-### The website cconsist of these thing (**sitemap**)  
+### The website consist of these thing (**sitemap**)  

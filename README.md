@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/rohiththehacker/itisagoodpage/main/internet-security.png" alt="internet-security" width="5%" height="5%"> itisagoodpage
 
-A beginner cyber awareness project to help others to know about the cyber threats in the world.<br />
-It mainly decribes about the common threats in the cyber Era such as phishing and keylogging
+ A beginner cyber awareness project to help others to know about the cyber threats in the world.<br />
+ It mainly decribes about the common threats in the cyber Era such as phishing and keylogging
 
 <hr />
 

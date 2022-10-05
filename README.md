@@ -9,4 +9,5 @@ It is a beginner level project to give awareness to the people who uses cyber sp
 
 <strong> caution: <em> please pardon me for any mistake that arrives during the execution of this code. And note that this is only for educational purposes and it is also free to copy , alter and dirtribute.</em> </strong>
 
-As we know that cyber threats are common today - their are more 
+As we know that cyber threats are common today - their are more common threats such as given below:
+  
